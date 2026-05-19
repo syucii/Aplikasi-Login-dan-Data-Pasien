@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Pink theme -->
+    <color name="primary_pink">#E91E8C</color>
+    <color name="primary_pink_dark">#C2185B</color>
+    <color name="primary_pink_light">#FCE4EC</color>
+    <color name="accent_pink">#F8BBD9</color>
+
+    <color name="background_soft">#FFF0F6</color>
+    <color name="text_dark">#1A0010</color>
+    <color name="text_gray">#9E7389</color>
+    <color name="border_soft">#F0C4DC</color>
+    <color name="online_green">#10B981</color>
+</resources>
